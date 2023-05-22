@@ -10,6 +10,7 @@ function initMap() {
     var marker = new google.maps.Marker({
         position: myLatLng,
         map: map,
-        title: ', INA' // Title Location
+        title: 'Bulan , Sorsogon ' // Title Location
     });
 }
+<a href="https://embedgooglemap.2yu.co/">html embed google map</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:100%;width:100%;}</style>
